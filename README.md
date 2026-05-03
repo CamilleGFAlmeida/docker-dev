@@ -35,7 +35,9 @@ Durante o desenvolvimento, explorei práticas importantes para garantir mais org
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/docker.png)
+![Preview do projeto](./assets/docker-1.png)
+![Preview do projeto](./assets/docker-2.png)
+![Preview do projeto](./assets/docker-3.png)
 
 ---
 
